@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 💫 About Me<br><br>🔭 I'm currently working on **AI-powered DevOps and Kubernetes automation projects**<br><br>👯 I'm looking to collaborate on **DevOps, LLMOps, and Agentic AI projects**<br><br>🌱 I'm currently learning **Python, FastAPI, LangChain, LangGraph, RAG, and MCP**<br><br>💬 Ask me about **Kubernetes, Docker, Jenkins, GitLab CI/CD, Terraform, Prometheus, Grafana, and Agentic AI**<br><br>⚡ Fun fact: **I started my journey in Sr. Support Engineer and now I'm exploring how AI can make DevOps smarter!**
+## 💫 About Me<br><br>🔭 I'm currently working on **AI-powered DevOps and Kubernetes automation projects**<br><br>👯 I'm looking to collaborate on **DevOps, LLMOps, and Agentic AI projects**<br><br>🌱 I'm currently learning **Python, FastAPI, LangChain, LangGraph, RAG, and MCP**<br><br>💬 Ask me about **Kubernetes, Docker, Jenkins, GitLab CI/CD, Terraform, Prometheus, Grafana, and Agentic AI**<br><br>⚡ Fun fact: **I started my journey as Senior Support Engineer Infra Management Services  and now I'm exploring how AI can make DevOps smarter!**
 
 
 ## 🌐 Socials:
